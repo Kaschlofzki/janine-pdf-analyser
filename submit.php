@@ -193,14 +193,10 @@ if($_FILES['userfile']['name'] !== '' AND $_FILES['userfile']['type'] === 'appli
     </div>
 
 
-
-      <script src="gsap/greensock-js/src/minified/TweenLite.min.js"></script>
-    <script src="gsap/greensock-js/src/minified/plugins/CSSPlugin.min.js"></script>
-    <script src="jquery/jquery-3.3.1.min.js"></script>
     <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
     <script src="/pdf.js-master/src/pdf.js"></script>
     <!-- <script src="package/build/pdf.min.js"></script> -->
-    <script src="myjs.js"></script>
+
 </body>
 
 
